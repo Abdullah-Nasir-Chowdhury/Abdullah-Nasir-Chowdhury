@@ -1,6 +1,9 @@
-# 💫 About Me:
-I am Abdulla Nasir Chowdhury, I am a computer vision and machine learning enthusiast
-
+# 💫 Hi, I am Abdulla!
+I am a computer vision and machine learning enthusiast
+I have completed several courses in Data Analytics and Data Science. 
+I have also completed specializations on Machine Learning and Deep Learning.
+Currently, I am working on building my knowledge on Data Structures and Algorithms.
+I am engaged as a Research Asssistant at my University.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anc19990) 
