@@ -1,7 +1,6 @@
 # 💫 Hi, I am Abdulla!
 I am a computer vision and machine learning enthusiast <br/>
 You can find me here [https://www.linkedin.com/in/anc19990/] <br/>
-I have also completed specializations on Machine Learning and Deep Learning. <br/>
 Currently, I am working on building my knowledge on Data Structures and Algorithms. <br/>
 I am engaged as a Research Asssistant at my university. <br/>
 
