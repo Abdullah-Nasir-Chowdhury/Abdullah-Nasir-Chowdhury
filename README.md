@@ -1,5 +1,5 @@
 # 💫 Hi, I am Abdulla!
-I am a computer vision and machine learning enthusiast \n
+I am a computer vision and machine learning enthusiast
 I have completed several courses in Data Analytics and Data Science.
 You can find me here [https://www.linkedin.com/in/anc19990/]
 I have also completed specializations on Machine Learning and Deep Learning.
