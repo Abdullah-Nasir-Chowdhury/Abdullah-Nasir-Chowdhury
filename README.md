@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-#### I am currently working on Research Papers on Computer Vision. I am looking to collaborate on this with like minds.
-##### I am learning Deep Learning Neural Network Architectures and Data Structures. 
+I am a machine learning practitioner engaged in research in this field. I studied Electircal and Electronics Engineering at Leading University. I am pursuing AI Engineering at the moment. I also have a keen interest in Robotics and Embedded Systems.
+You can find me on LinkedIn: [https://www.linkedin.com/in/anc19990/]
+
 
