@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-## Hi
+#### I am currently working on Research Papers on Computer Vision. I am looking to collaborate on this with like minds.
+##### I am learning Deep Learning Neural Network Architectures and Data Structures. 
+
