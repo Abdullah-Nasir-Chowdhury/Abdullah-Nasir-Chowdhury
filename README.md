@@ -18,3 +18,5 @@ I am a machine learning practitioner engaged in research in this field. I studie
 You can find me on LinkedIn: [https://www.linkedin.com/in/anc19990/]
 
 
+[![Abdulla's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Abdullah-Nasir-Chowdhury/github-readme-stats)
+
