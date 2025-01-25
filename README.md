@@ -14,10 +14,10 @@ Currently, I am working on building my knowledge on Data Structures and Algorith
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Nasir-Chowdhury&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Nasir-Chowdhury&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Nasir-Chowdhury&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Nasir-Chowdhury&theme=dark&hide_border=false" height="180px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Nasir-Chowdhury&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px" /> </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdullah-Nasir-Chowdhury&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Nasir-Chowdhury&theme=radical&no-frame=false&no-bg=false&margin-w=4" /> </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdullah-Nasir-Chowdhury&icon=0&color=0)](https://visitcount.itsvg.in)
