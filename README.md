@@ -16,7 +16,7 @@ Currently, I am working on building my knowledge on Data Structures and Algorith
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdullah-Nasir-Chowdhury&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Nasir-Chowdhury&theme=radical&no-frame=false&no-bg=false&margin-w=4" /> </div>
 
 ---
