@@ -1,5 +1,5 @@
 # Hello!
-I am a computer vision and machine learning research assistant at my university. <br/>
+I am an aspiring Generative AI Engineer. <br/>
 You can find me here [https://www.linkedin.com/in/anc19990/] <br/>
 Currently, I am working on building my knowledge on Data Structures and Algorithms. <br/>
 
