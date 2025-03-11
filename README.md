@@ -1,7 +1,7 @@
 # Hello!!                  
 I am an aspiring Generative AI Engineer. <br/>     
 You can find me here [https://www.linkedin.com/in/anc19990/] <br/>
-Currently, I am working on building my knowledge on Data Structures and Algorithms. <br/>
+Currently, I am working on building my knowledge on Data Structures and Algorithms. <br/> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anc19990) 
