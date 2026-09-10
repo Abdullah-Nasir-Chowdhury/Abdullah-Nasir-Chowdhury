@@ -1,4 +1,4 @@
-# Abdulla Nasir Chowdhury
+# [Abdulla Nasir Chowdhury](https://abdulla-na.vercel.app)
 
 Computer vision researcher at CVLab, University of Tsukuba, working on 3D point cloud inspection, and software developer at Star Engineering. Electrical and Electronics Engineering graduate from Bangladesh.
 
@@ -17,7 +17,7 @@ I build systems that find defects in 3D scans of manufactured parts, and I study
 
 | Year | Project | What it is |
 |---|---|---|
-| 2026 | [Bicol Cacao Field Tools](https://cacao-bicol-field-tools.netlify.app) | Drip irrigation pressure planner, P&ID water-system schematic and Raspberry Pi controller design for smallholder cacao farms in Bicol, Philippines, built from field research with Team BEE at the University of Tsukuba. |
+| 2026 | [Bicol Cacao Field Tools](https://cacao-bicol-field-tools.netlify.app) | Drip irrigation pressure planner, P&ID water-system schematic and Raspberry Pi controller design for smallholder cacao farms in Bicol, Philippines, built from field research with Team BEE at the University of Tsukuba. [Code](https://github.com/Abdullah-Nasir-Chowdhury/cacao-bicol-field-tools). |
 | 2025 | [Apnea-Detector](https://github.com/Abdullah-Nasir-Chowdhury/Apnea-Detector) | Gradio app that classifies breathing rate as normal, bradypnea, tachypnea or apnea. |
 | 2025 | [asus-ecommerce-app](https://github.com/Abdullah-Nasir-Chowdhury/asus-ecommerce-app) | Flutter e-commerce app for gaming laptops with product screens, navigation and a working cart. |
 | 2024 | [IOT-Application_ESP8266-Flutter-Firebase](https://github.com/Abdullah-Nasir-Chowdhury/IOT-Application_ESP8266-Flutter-Firebase) | Switch electrical loads from a phone: ESP8266 firmware, Flutter app, Firebase in between. |
