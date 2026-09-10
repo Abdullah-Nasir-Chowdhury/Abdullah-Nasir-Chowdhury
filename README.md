@@ -15,11 +15,9 @@ I build systems that find defects in 3D scans of manufactured parts, and I study
 | Project | What it is |
 |---|---|
 | [Apnea-Detector](https://github.com/Abdullah-Nasir-Chowdhury/Apnea-Detector) | Gradio app that classifies breathing rate as normal, bradypnea, tachypnea or apnea. |
-| [Real-Time-Traffic-Monitoring](https://github.com/Abdullah-Nasir-Chowdhury/Real-Time-Traffic-Monitoring) | Vehicle detection and tracking on live video with YOLOv8 and DeepSORT. |
 | [Bangla-CrossHair](https://github.com/Abdullah-Nasir-Chowdhury/Bangla-CrossHair) | Bangla OCR dataset and a comparative study of PyTesseract and EasyOCR on Bangla text. |
 | [IOT-Application_ESP8266-Flutter-Firebase](https://github.com/Abdullah-Nasir-Chowdhury/IOT-Application_ESP8266-Flutter-Firebase) | Switch electrical loads from a phone: ESP8266 firmware, Flutter app, Firebase in between. |
 | [asus-ecommerce-app](https://github.com/Abdullah-Nasir-Chowdhury/asus-ecommerce-app) | Flutter e-commerce app for gaming laptops with product screens, navigation and a working cart. |
-| [Chatbot-with-OpenAI-and-Panels](https://github.com/Abdullah-Nasir-Chowdhury/Chatbot-with-OpenAI-and-Panels) | Conversational chatbot on the OpenAI API with a Panel dashboard front end. |
 | [Bicol Cacao Field Tools](https://cacao-bicol-field-tools.netlify.app) | Drip irrigation pressure planner, P&ID water-system schematic and Raspberry Pi controller design for smallholder cacao farms in Bicol, Philippines, built from field research with Team BEE at the University of Tsukuba. |
 
 ## Tools I reach for
