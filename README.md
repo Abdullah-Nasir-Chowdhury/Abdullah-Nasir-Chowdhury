@@ -1,6 +1,6 @@
 # Abdulla Nasir Chowdhury
 
-Computer vision researcher at CVLab, University of Tsukuba, working on 3D point cloud inspection. Electrical and Electronics Engineering graduate from Bangladesh.
+Computer vision researcher at CVLab, University of Tsukuba, working on 3D point cloud inspection, and software developer at Star Engineering. Electrical and Electronics Engineering graduate from Bangladesh.
 
 I build systems that find defects in 3D scans of manufactured parts, and I study what breaks when a model trained on clean synthetic data meets real, noisy sensor data. On the side I build GenAI and LLM tooling.
 
