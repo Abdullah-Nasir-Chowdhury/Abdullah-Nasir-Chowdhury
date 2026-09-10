@@ -1,22 +1,34 @@
-# Hello!!                        
-I am a Research Student at the University of Tsukuba in Japan, just struggling to stay afloat. <br/>     
+# Abdullah Nasir Chowdhury
 
+Computer vision researcher working on 3D point cloud inspection. Electrical and Electronics Engineering graduate, based in Bangladesh, with [EARL Research Network](https://earl-research.com/).
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anc19990) 
+I build systems that find defects in 3D scans of manufactured parts, and I study what breaks when a model trained on clean synthetic data meets real, noisy sensor data. On the side I build GenAI and LLM tooling.
 
-# 💻 Tech Stack: 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## Now
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdullah-Nasir-Chowdhury&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Nasir-Chowdhury&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Nasir-Chowdhury&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **[pointcloud-inspection-api](https://github.com/Abdullah-Nasir-Chowdhury/pointcloud-inspection-api)** — unsupervised defect inspection for 3D scans. FPFH descriptors scored against a memory bank of defect-free parts (FAISS), served with FastAPI in Docker, benchmarked on MVTec 3D-AD. Needs no labelled defects, only good scans.
+- Two papers on synthetic-to-real domain shift in point cloud surface inspection (dent detection on aircraft fuselage scans) are under review. Code and an interactive companion site go public on acceptance.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdullah-Nasir-Chowdhury&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Selected work
 
----
-[![](https://visitcount.itsvg.in/api?id=Abdullah-Nasir-Chowdhury&icon=0&color=0)](https://visitcount.itsvg.in)
+| Project | What it is |
+|---|---|
+| [pointcloud-inspection-api](https://github.com/Abdullah-Nasir-Chowdhury/pointcloud-inspection-api) | Upload a 3D scan, get back an anomaly heatmap and a calibrated pass/fail decision. |
+| [Bag-File-Converter](https://github.com/Abdullah-Nasir-Chowdhury/Bag-File-Converter) | Desktop tool that batch-extracts PLY point clouds and PNG frames from Intel RealSense `.bag` recordings. |
+| [video-compressor](https://github.com/Abdullah-Nasir-Chowdhury/video-compressor) | Video compression entirely in the browser with ffmpeg.wasm. No uploads, no server. |
+| [Bangla-CrossHair](https://github.com/Abdullah-Nasir-Chowdhury/Bangla-CrossHair) | Bangla OCR dataset and a comparative study of PyTesseract and EasyOCR on Bangla text. |
+| [Apnea-Detector](https://github.com/Abdullah-Nasir-Chowdhury/Apnea-Detector) | Gradio app that classifies breathing rate as normal, bradypnea, tachypnea or apnea. |
+| [IOT-Application_ESP8266-Flutter-Firebase](https://github.com/Abdullah-Nasir-Chowdhury/IOT-Application_ESP8266-Flutter-Firebase) | Switch electrical loads from a phone: ESP8266 firmware, Flutter app, Firebase in between. |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tools I reach for
+
+Python, PyTorch, Open3D, FAISS, scikit-learn, FastAPI, Docker, LangChain, OpenAI and Hugging Face APIs, C/C++ on Arduino and ESP8266.
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/anc19990) · [Portfolio](https://abdulla-na.vercel.app)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Nasir-Chowdhury&layout=compact&hide_border=true&theme=github_dark&hide=html,jupyter%20notebook&langs_count=6">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Nasir-Chowdhury&layout=compact&hide_border=true&hide=html,jupyter%20notebook&langs_count=6">
+</picture>
