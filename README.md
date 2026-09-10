@@ -13,12 +13,12 @@ I build systems that find defects in 3D scans of manufactured parts, and I study
 
 | Project | What it is |
 |---|---|
-| [pointcloud-inspection-api](https://github.com/Abdullah-Nasir-Chowdhury/pointcloud-inspection-api) | Upload a 3D scan, get back an anomaly heatmap and a calibrated pass/fail decision. |
-| [Bag-File-Converter](https://github.com/Abdullah-Nasir-Chowdhury/Bag-File-Converter) | Desktop tool that batch-extracts PLY point clouds and PNG frames from Intel RealSense `.bag` recordings. |
-| [video-compressor](https://github.com/Abdullah-Nasir-Chowdhury/video-compressor) | Video compression entirely in the browser with ffmpeg.wasm. No uploads, no server. |
-| [Bangla-CrossHair](https://github.com/Abdullah-Nasir-Chowdhury/Bangla-CrossHair) | Bangla OCR dataset and a comparative study of PyTesseract and EasyOCR on Bangla text. |
 | [Apnea-Detector](https://github.com/Abdullah-Nasir-Chowdhury/Apnea-Detector) | Gradio app that classifies breathing rate as normal, bradypnea, tachypnea or apnea. |
+| [Real-Time-Traffic-Monitoring](https://github.com/Abdullah-Nasir-Chowdhury/Real-Time-Traffic-Monitoring) | Vehicle detection and tracking on live video with YOLOv8 and DeepSORT. |
+| [Bangla-CrossHair](https://github.com/Abdullah-Nasir-Chowdhury/Bangla-CrossHair) | Bangla OCR dataset and a comparative study of PyTesseract and EasyOCR on Bangla text. |
 | [IOT-Application_ESP8266-Flutter-Firebase](https://github.com/Abdullah-Nasir-Chowdhury/IOT-Application_ESP8266-Flutter-Firebase) | Switch electrical loads from a phone: ESP8266 firmware, Flutter app, Firebase in between. |
+| [asus-ecommerce-app](https://github.com/Abdullah-Nasir-Chowdhury/asus-ecommerce-app) | Flutter e-commerce app for gaming laptops with product screens, navigation and a working cart. |
+| [Chatbot-with-OpenAI-and-Panels](https://github.com/Abdullah-Nasir-Chowdhury/Chatbot-with-OpenAI-and-Panels) | Conversational chatbot on the OpenAI API with a Panel dashboard front end. |
 
 ## Tools I reach for
 
