@@ -27,8 +27,3 @@ Python, PyTorch, Open3D, FAISS, scikit-learn, FastAPI, Docker, LangChain, OpenAI
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/anc19990) · [Portfolio](https://abdulla-na.vercel.app)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Nasir-Chowdhury&layout=compact&hide_border=true&theme=github_dark&hide=html,jupyter%20notebook&langs_count=6">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Nasir-Chowdhury&layout=compact&hide_border=true&hide=html,jupyter%20notebook&langs_count=6">
-</picture>
