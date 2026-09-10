@@ -1,4 +1,4 @@
-# Abdullah Nasir Chowdhury
+# Abdulla Nasir Chowdhury
 
 Computer vision researcher working on 3D point cloud inspection. Electrical and Electronics Engineering graduate, based in Bangladesh, with [EARL Research Network](https://earl-research.com/).
 
