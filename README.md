@@ -9,7 +9,7 @@ I build systems that find defects in 3D scans of manufactured parts, and I study
 
 | Year | Work | What it is |
 |---|---|---|
-| 2026 | [pointcloud-inspection-api](https://github.com/Abdullah-Nasir-Chowdhury/pointcloud-inspection-api) | Unsupervised defect inspection for 3D scans. FPFH descriptors scored against a memory bank of defect-free parts (FAISS), served with FastAPI in Docker, benchmarked on MVTec 3D-AD. Needs no labelled defects, only good scans. |
+| 2026 | [pointcloud-inspection-api](https://pcinspect-727953311125.asia-northeast1.run.app/demo/) | Unsupervised defect inspection for 3D scans. FPFH descriptors scored against a memory bank of defect-free parts (FAISS), served with FastAPI in Docker, benchmarked on MVTec 3D-AD. Needs no labelled defects, only good scans. [Code](https://github.com/Abdullah-Nasir-Chowdhury/pointcloud-inspection-api) | 
 | 2026 | [Point Cloud Robustness Playground](https://abdullah-nasir-chowdhury.github.io/pcr-mock-playground/) | Interactive comparison of 19 point cloud classifiers, 8 baselines and 11 proposed subspace-separation architectures, on ModelNet40 under rotation, noise and occlusion. Pick a shape, perturb it, see what each model predicts. [Code](https://github.com/Abdullah-Nasir-Chowdhury/pcr-mock-playground). |
 | 2026 | Synthetic-to-real domain shift in point cloud surface inspection | Two papers on dent detection in aircraft fuselage scans, under review. Code and a companion site for the WACV 2027 Datasets Track submission go public on acceptance. |
 | 2025 | [Bangla-CrossHair](https://github.com/Abdullah-Nasir-Chowdhury/Bangla-CrossHair) | Bangla OCR dataset and a comparative study of PyTesseract and EasyOCR on Bangla text. |
