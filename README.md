@@ -9,9 +9,10 @@ I build systems that find defects in 3D scans of manufactured parts, and I study
 
 | Year | Work | What it is |
 |---|---|---|
+| 2026 | [Do We Still Need Rotation-Invariant Architectures?](https://abdullah-nasir-chowdhury.github.io/projects/wacv2027/) | WACV 2027. A statistical robustness benchmark of 10 point cloud classifiers across 5 domains under pose, noise and occlusion, tested with confirmatory hypothesis tests. Released as the `pcrobust` package with all 193 trained checkpoints. [Code](https://github.com/Abdullah-Nasir-Chowdhury/pcrobust) · [PyPI](https://pypi.org/project/pcrobust/) |
+| 2026 | [Subspace Representations for Synthetic-to-Real Transfer in 3-D Surface Inspection](https://abdullah-nasir-chowdhury.github.io/projects/accv2026/) | ACCV 2026 Workshop on Subspaces in the Era of Foundation Models. What subspace methods contribute when a model trained on synthetic defects meets real scans, measured on MVTec 3D-AD and Real3D-AD. [Code](https://github.com/Abdullah-Nasir-Chowdhury/subspace-surface-inspection) |
 | 2026 | [Point Cloud Inspection API](https://pointcloud-inspection-api.onrender.com/demo/) | Deployed on the free version of Render, so it can be slow. Unsupervised defect inspection for 3D scans. FPFH descriptors scored against a memory bank of defect-free parts (FAISS), served with FastAPI in Docker, benchmarked on MVTec 3D-AD. Needs no labelled defects, only good scans. [Code](https://github.com/Abdullah-Nasir-Chowdhury/pointcloud-inspection-api) | 
 | 2026 | [Point Cloud Robustness Playground](https://abdullah-nasir-chowdhury.github.io/pcr-mock-playground/) | Interactive comparison of 19 point cloud classifiers, 8 baselines and 11 proposed subspace-separation architectures, on ModelNet40 under rotation, noise and occlusion. Pick a shape, perturb it, see what each model predicts. [Code](https://github.com/Abdullah-Nasir-Chowdhury/pcr-mock-playground). |
-| 2026 | Synthetic-to-real domain shift in point cloud surface inspection | A paper on dent detection in aircraft fuselage scans, under review. Code and a companion site for the WACV 2027 Datasets Track submission go public on acceptance. |
 | 2025 | [Bangla CrossHair](https://github.com/Abdullah-Nasir-Chowdhury/Bangla-CrossHair) | Bangla OCR dataset and a comparative study of PyTesseract and EasyOCR on Bangla text. |
 
 ## Projects
