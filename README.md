@@ -2,7 +2,9 @@
 
 
 Hi! I am a computer vision researcher at CVLab, University of Tsukuba, working on 3D point cloud inspection, and I work part time as a software engineer. 
+
 Check out my short portfolio here: [Shortfolio](https://abdullah-nasir-chowdhury.github.io/) 
+
 If you want to know more about me: [Portfolio](https://abdulla-na.vercel.app)
 
 
